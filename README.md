@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working as **Freelancer.**
 
+- 🙋‍♂️ Welcome to My Portfolio [My_Portfolio](https://adityaraj-x21.github.io/MyPortfolio/)
+
 - 👨‍💻 All of my projects are available at [https://linktr.ee/adityaraj21](https://linktr.ee/adityaraj21)
 
-- 🌎 Connect with me [https://www.linkedin.com/in/adityarajx21/](https://www.linkedin.com/in/adityarajx21/)
+- 🌎 Connect with me [LinkedIn](https://www.linkedin.com/in/adityarajx21/)
 
 - 📫 How to reach me **1291aditya2525@gmail.com**
 
