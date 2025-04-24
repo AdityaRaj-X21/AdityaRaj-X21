@@ -11,7 +11,7 @@
 
 - 🙋‍♂️ Welcome to My Portfolio [My_Portfolio](https://adityaraj-x21.github.io/MyPortfolio/)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/adityaraj21](https://linktr.ee/adityaraj21)
+- 👨‍💻 My LinkTree [https://linktr.ee/adityaraj21](https://linktr.ee/adityaraj21)
 
 - 🌎 Connect with me [LinkedIn](https://www.linkedin.com/in/adityarajx21/)
 
